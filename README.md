@@ -26,4 +26,5 @@ Tools and Technologies used: Bash, python, and Jupiter Notebook.
 
 **Bash for scheduling the job to run the Python script at 6:30 am everyday**
 
+**Result:** the result excel sheets will be stored in a folder called **Maids_list**.
                  
